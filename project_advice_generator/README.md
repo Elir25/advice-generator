@@ -21,7 +21,7 @@ Basic funtionality: we want our programme to generate a new advice whenever the 
 1. Use the number from the previous step as value called `randomNumber` to get the content of the random advice into the `adviceDisplay` element
 1. Add styling to the style.css file you created 
 
-**Full project, working with the API:**
+**Full project, using API requests:**
 
 1. Instead of getting an advice string from the `advice.js` file, you request a random advice using the Advice Slip JSON API (see url at the top of this README)
 1. Write a `getAdvice()` function and use this as the onclick attribute for the button
