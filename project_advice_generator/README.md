@@ -1,3 +1,5 @@
+## Project Advice Generator
+
 ### The goal of this project is to practice working with an API
 
 We will use the Advice Slip JSON API for our project (https://api.adviceslip.com/#top).
