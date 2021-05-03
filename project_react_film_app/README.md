@@ -6,7 +6,7 @@ Basic functionality: we want our app to request data from the Studio Ghibli API(
 
 Additional functionality: search function to search films, locations, and people
 
-Note: the basic CSS code has been created in the `index.css` file. This is what the app will look like: <img src="/project_react_film_app/studio_ghibli_films.png" width="300" />
+Note: the basic CSS code has been created in the `index.css` file. This is what the app will look like: <img src="/project_react_film_app/studio_ghibli_films.png" width="400" />
 
 1. Create a project folder using `npx create-react-app`
 1. Delete all unnecessary code
