@@ -21,6 +21,7 @@ Basic functionality: we want our programme to generate a new advice whenever the
 1. Create a `<div>` element with class name of `advice-display`
 1. Add a `<button>` element with class name `advice-button`
 1. The `main.js` file contains an array of strings that you can use for testing the javascript functionality before you start working with the API
+1. The app should always start with a welcome page, also after refresh. The advice texts should only show up when the button is clicked.
 1. Write the function `newAdvice()` that generates a random whole number that ranges from 0 to the length of our advice array
 1. Use the number from the previous step as value called `randomNumber` to get a random advice text 
 1. Display the content of the random advice into the `advice-display` element

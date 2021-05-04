@@ -15,3 +15,10 @@ function newAdvice() {
   let randomNumber = Math.floor(Math.random() * (advice.length))
 }
 ```
+
+**Welcome page**  
+With the `newAdvice()` function, an advice will be generated when the function runs. This happens when you refresh,  
+so it means that there will always be an advice text on the screen, also when the app starts.  
+
+To have a welcome page as start page, instead of a page with an advice text, you will have to write a function  
+`startApp()` that returns a welcome message (or whatever you want to see when the app opens). This is the function that should run first.
