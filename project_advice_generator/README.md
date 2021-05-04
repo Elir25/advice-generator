@@ -18,11 +18,12 @@ Basic functionality: we want our programme to generate a new advice whenever the
 1. Add a link to the css file in the HTML
 1. Add **Advice Generator** within the `<title>` tags
 1. Add an `<h1>` element with the name of your app as the first element in the `<body>`
-1. Create a `<div>` element with an id name of `advice-display`
-1. Add a `<button>` element with an onclick attribute with `newAdvice()` passed into it
-1. The `advice.js` file contains an array of strings that you can use for testing the javascript functionality before you start working with the API
-1. The `newAdvice()` function needs to generate a random whole number that ranges from 0 to the length of our advice array (in the `advice.js` file)
-1. Use the number from the previous step as value called `randomNumber` to get the content of the random advice into the `advice-display` element
+1. Create a `<div>` element with class name of `advice-display`
+1. Add a `<button>` element with class name `advice-button`
+1. The `main.js` file contains an array of strings that you can use for testing the javascript functionality before you start working with the API
+1. Write the function `newAdvice()` that generates a random whole number that ranges from 0 to the length of our advice array
+1. Use the number from the previous step as value called `randomNumber` to get a random advice text 
+1. Display the content of the random advice into the `advice-display` element
 1. Add styling to the style.css file you created 
 
 **Full project, using API requests:**
