@@ -8,15 +8,19 @@ let advice = [
 ]
 
 let adviceText = ""
+let adviceBox = document.querySelector(".advice-display")
 let adviceButton = document.querySelector(".advice-button");
 adviceButton.addEventListener("click", newAdvice);
 
-function newAdvice() {
-  let randomNumber = Math.floor(Math.random() * (advice.length))
-  let adviceText = advice[randomNumber];
-  return adviceText
+function startApp() {
+  return adviceBox.innerText = "Click the button and you will get new advice!"
 }
 
-document.querySelector(".advice-display").innerText = adviceText
+function newAdvice() {
+  let randomNumber = Math.floor(Math.random() * (advice.length))
+  adviceText = advice[randomNumber];
+  return adviceBox.innerText = adviceText
+}
 
-newAdvice()
+
+startApp()
