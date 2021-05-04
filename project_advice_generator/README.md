@@ -35,4 +35,5 @@ Basic functionality: we want our programme to generate a new advice whenever the
 **Challenge yourself:**
 
 1. Create an advice for every day of the week
+1. Let the advice-display box increase or decrease in size depending upon the text
 2. Improve the design and layout, make it look good but keep the app responsive
