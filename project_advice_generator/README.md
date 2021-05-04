@@ -4,7 +4,7 @@
 
 We will use the Advice Slip JSON API for our project (https://api.adviceslip.com/#top).
 
-Basic funtionality: we want our programme to generate a new advice whenever the user presses the button.
+Basic functionality: we want our programme to generate a new advice whenever the user presses the button.
 
 **Basic setup (without API requests):**
 
@@ -12,8 +12,9 @@ Basic funtionality: we want our programme to generate a new advice whenever the 
 1. Create a main.js file
 1. Create a style.css file
 1. Link the JavaScript file to the HTML document so that the JavaScript code will be able interact with the HTML document
+1. Add a link to the css file in the HTML
 1. Add **Advice Generator** within the `<title>` tags
-1. Add an `<h1>` element with the title of your app as the first element in the `<body>`
+1. Add an `<h1>` element with the name of your app as the first element in the `<body>`
 1. Create a `<div>` element with an id name of `adviceDisplay`
 1. Add a `<button>` element with an onclick attribute with `newAdvice()` passed into it
 1. The `advice.js` file contains an array of strings that you can use for testing the javascript functionality before you start working with the API

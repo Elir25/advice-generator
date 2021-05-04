@@ -6,3 +6,4 @@ let advice = [
   "Fight for the things that you care about, but do it in a way that will lead others to join you.",
   "Don’t be afraid. Be focused. Be determined. Be hopeful. Be empowered."
 ]
+
