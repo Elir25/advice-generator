@@ -4,7 +4,8 @@
 
 We will use the Advice Slip JSON API for our project (https://api.adviceslip.com/#top).
 
-Basic functionality: we want our programme to generate a new advice whenever the user presses the button. A very simple example looks like this:
+Basic functionality: we want our programme to generate a new advice whenever the user presses the button. A very simple example looks like this:  
+
 <img src="/project_advice_generator/exampleAdviceGenerator.png" width="600" />
 
 **Basic setup (without API requests):**
