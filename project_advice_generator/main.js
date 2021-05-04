@@ -7,3 +7,16 @@ let advice = [
   "Don’t be afraid. Be focused. Be determined. Be hopeful. Be empowered."
 ]
 
+let adviceText = ""
+let adviceButton = document.querySelector(".advice-button");
+adviceButton.addEventListener("click", newAdvice);
+
+function newAdvice() {
+  let randomNumber = Math.floor(Math.random() * (advice.length))
+  let adviceText = advice[randomNumber];
+  return adviceText
+}
+
+document.querySelector(".advice-display").innerText = adviceText
+
+newAdvice()
