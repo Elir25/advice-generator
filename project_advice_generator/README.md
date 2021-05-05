@@ -32,6 +32,7 @@ Basic functionality: we want our programme to generate a new advice whenever the
 1. Instead of getting an advice string from the `advice.js` file, you request a random advice using the Advice Slip JSON API (see url at the top of this README)
 1. Write a `getAdvice()` function and use this as the onclick attribute for the button
 1. The `getAdvice()` function should return a random advice from the Advice Slip JSON API
+1. The function should return "Something has gone wrong" if there is an error
 1. Show the response data (the advice) in the `advice-display` element
 
 **Challenge yourself:**
