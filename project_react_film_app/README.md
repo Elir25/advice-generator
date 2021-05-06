@@ -20,6 +20,7 @@ Note: the basic CSS code has been created in the `index.css` file. Don't forget 
 1. Create a Film component 
 1. Write the code to get all the films from Studio Ghibli
 1. Show the films on the screen: a header with the film title, and then the film details Director, Producer, Release date and Rotten Tomato Score
+1. Add any styling you like to make it look better and more professional
 
 ### For graduates
 
