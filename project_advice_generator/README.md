@@ -8,6 +8,8 @@ Basic functionality: we want our programme to generate a new advice whenever the
 
 <img src="/project_advice_generator/exampleAdviceGenerator.png" width="600" />
 
+### For students
+
 **Basic setup (without API requests):**
 
 1. Create an index.html file with the general template code
@@ -40,4 +42,13 @@ Basic functionality: we want our programme to generate a new advice whenever the
 1. Create an advice for every day of the week
 1. Let the advice-display font-size increase or decrease in size depending upon the viewport
 1. Let the advice-display box increase or decrease in size depending upon the amount of text
-2. Improve the design and layout, make it look good but keep the app responsive
+1. Improve the design and layout, make it look good but keep the app responsive
+
+
+### For graduates
+
+1. Build this project as React app
+1. Use create-react-app
+1. Create advice cards that are continuously added and remain on the screen when a new advice is generated
+1. Make it into an attractive app
+
