@@ -14,10 +14,9 @@ Note: the basic CSS code has been created in the `index.css` file. Don't forget 
 
 1. Create a project folder using `npx create-react-app`
 1. Delete all unnecessary code
-1. Create a Film component that gets all films from Studio Ghibli
-1. Show the films on the screen
+1. Create a Film component 
+1. Write the code to get all the films from Studio Ghibli
+1. Show the films on the screen: a header with the film title, and then the film details Director, Producer, Release date and Rotten Tomato Score
 
 
 **Full project:**
-
-*Additional functionality*
