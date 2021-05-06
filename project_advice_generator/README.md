@@ -48,7 +48,7 @@ Basic functionality: we want our programme to generate a new advice whenever the
 ### For graduates
 
 1. Build this project as React app
-1. Use create-react-app
-1. Create advice cards that are continuously added and remain on the screen when a new advice is generated
+1. Use create-react-app, create components and write the code for the functionality explained above
+1. Challenge yourself: create advice cards that are continuously added and remain on the screen when a new advice is generated
 1. Make it into an attractive app
 
