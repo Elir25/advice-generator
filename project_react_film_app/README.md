@@ -8,7 +8,9 @@ Additional functionality: search function to search films, locations, and people
 
 Note: the basic CSS code has been created in the `index.css` file. Don't forget to import the css! This is what the app will look like:  
 
-<img src="/project_react_film_app/studio_ghibli_films.png" width="600" />
+<img src="/project_react_film_app/studio_ghibli_films.png" width="800" />
+
+### For students
 
 **Basic setup:**  
 
@@ -19,6 +21,7 @@ Note: the basic CSS code has been created in the `index.css` file. Don't forget 
 1. Write the code to get all the films from Studio Ghibli
 1. Show the films on the screen: a header with the film title, and then the film details Director, Producer, Release date and Rotten Tomato Score
 
+### For graduates
 
 **Full project:**
 
