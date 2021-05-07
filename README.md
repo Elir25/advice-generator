@@ -2,7 +2,7 @@
 
 
 
-<img src="/codewomen_icon.jpg" width="200" margin-right="100" />  <img src="/migracode-logo.png" width="200" />  
+<img src="/codewomen_icon.jpg" width="200" margin-right="400" />  <img src="/migracode-logo.png" width="200" padding-bottom="100" />  
 
 [Read about CodeWomen](https://migracode.openculturalcenter.org/codewomen)
 
