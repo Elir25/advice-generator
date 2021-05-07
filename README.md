@@ -1,6 +1,8 @@
 # codewomen-projects
 
-<img src="/codewomen_icon.jpg" width="300" />  
+
+
+<img src="/codewomen_icon.jpg" width="300" />  <img src="/codewomen_icon.jpg" width="300" />  
 
 [Read about CodeWomen](https://migracode.openculturalcenter.org/codewomen)
 
