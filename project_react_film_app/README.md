@@ -4,7 +4,7 @@
 
 Basic functionality: we want our app to request data from the Studio Ghibli API (https://ghibliapi.herokuapp.com), to show films, locations, film directors etc. 
 
-Additional functionality: search function to search films, locations, and people
+Additional functionality: search function so that the user can search films, locations, and people
 
 Note: the basic CSS code has been created in the `index.css` file. Don't forget to import the css! This is what the app will look like:  
 
@@ -16,10 +16,10 @@ Note: the basic CSS code has been created in the `index.css` file. Don't forget 
 
 1. Create a project folder using `npx create-react-app`
 1. Delete all unnecessary code
-1. Use the classNames that are in the index.css file (save yourself some time!)
-1. Create a Film component 
-1. Write the code to get all the films from Studio Ghibli
-1. Show the films on the screen: a header with the film title, and then the film details Director, Producer, Release date and Rotten Tomato Score
+1. Use the classNames that are in the index.css file (and save yourself some time!)
+1. Create a Films.js component 
+1. Write the code to get all the films from Studio Ghibli when the page loads: create a const `films` and a `setFilms` to update this; you use React's `useEffect()` to load the films on the page with a `fetch()` request
+1. Show the films on the screen: a header with the film title, and then the film details Director, Producer, Release date and Rotten Tomato Score (see example image above)
 1. Add any styling you like to make it look better and more professional
 
 ### For graduates
