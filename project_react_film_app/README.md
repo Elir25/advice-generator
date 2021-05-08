@@ -8,7 +8,7 @@ Additional functionality: search function so that the user can search films, loc
 
 Note: the basic CSS code has been created in the `index.css` file. Don't forget to import the css! This is what the app will look like:  
 
-<img src="/project_react_film_app/studio_ghibli_basic.png" width="800" /> and <img src="/project_react_film_app/studio_ghibli_with_search.png" width="800" />
+<img src="/project_react_film_app/studio_ghibli_basic.png" width="400" /> <img src="/project_react_film_app/studio_ghibli_with_search.png" width="400" />
 
 ### For students
 
