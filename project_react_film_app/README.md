@@ -1,5 +1,7 @@
 ## Project React Film App
 
+***NB: if you want to download this code on your local machine, do not fork it but clone the repo and then create a new repo in your own GitHub account, so that it is your own project and not a fork of this project. You can connect a local project to a new, empty GitHub repo [as follows:](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line). We can do this together during the coding session: it is very good to know this so that you can start a project locally and later on link it with a remote GitHub repo.***
+
 ### The goal of this project is to practice working with React, specifically reacting to changes
 
 Basic functionality: we want our app to request data from the Studio Ghibli API (https://ghibliapi.herokuapp.com), to show films, locations, film directors etc. 
