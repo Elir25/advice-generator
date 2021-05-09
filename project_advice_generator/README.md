@@ -38,6 +38,7 @@ Basic functionality: we want our programme to generate a new advice whenever the
 1. The `getAdvice()` function should return a random advice from the Advice Slip JSON API
 1. The function should return "Something has gone wrong" if there is an error
 1. Show the response data (the advice) in the `advice-display` element
+1. Since the Advice Slip endpoint for random advice takes time to reload, you cannot click the button quickly, one time after the other. This will generate the same advice, even though you use the random endpoint. Solve this problem!
 
 **Challenge yourself:**
 
